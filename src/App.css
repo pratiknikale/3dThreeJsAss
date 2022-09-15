@@ -1,4 +1,8 @@
-.App {
+#three-canvas-container {
+  height: 100vh !important;
+}
+
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +39,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */
